@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Amigos de Barichara Mobile®</string>
+    <string name="BARICHARA">BARICHARA</string>
+    <string name="barichara_descripcion_pantalla_1">Barichara fue nombrada «El pueblo más bonito de Colombia», y el nombre, en dialecto Guane, significa lugar para el descanso. Con este curriculum no sorprende que nada más llegar a Barichara desde San Gil, a unos 25 kilómetros, te invada una sensación de paz y tranquilidad, al menos durante la semana, supongo que el fin de semana se llena de turistas.
+
+El gentilicio es Baricharas o patiamarillos, de este último no he descubierto el porqué a pesar de buscarlo en Internet.
+        La visité en 2009 y cuatro años después me pareció reconocer al mismo anciano sentado en el mismo banco de la misma plaza a la misma hora.
+    </string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="camino_real">CAMINO REAL</string>
+    <string name="boton_continue_main">CONTINUE</string>
+    <string name="camino_real_description_pg1">El Camino Real que une Barichara y Guane fue declarado Monumento Nacional en 1977 y restaurado bajo un decreto de 1988. Los historiadores aseguran que era parte del Camino Real Centro-Oriental colombiano, que conectaba las rutas de Santafé de Bogotá, Tunja, Bucaramanga, Pamplona y Cúcuta, con bifurcaciones que conducían hacia Cartagena y Venezuela. </string>
+    <string name="camino_real_descripcion_pg_3_1">Hay que subir a la parte alta del pueblo para tener las más hermosas vistas del mismo, con sus tejados armónicos en teja, y también del valle que comunica Barichara, a 1.300 msnm, con Guane, a 885 msnm, por lo que es recomendable recorrer el Camino Real en el sentido Barichara Guane, ya que en gran parte es cuesta abajo.</string>
+    <string name="camino" />
+    <string name="camino_real_descripcion_pg_3_2">El Camino Real no dejó de ser una pavimentación de los caminos milenarios de las comunidades chibchas, muiscas y guanes. En tiempos coloniales, la ruta imprimió un fuerte desarrollo económico a la región, ya que se comerciaba con tejidos, harina, maíz y sal por esta ruta hacia el occidente del país.
+
+El camino se hizo con losas de piedra plana muy abundante en la región, y comienza en la zona alta de Barichara al lado del monumento a Bolivar, desde donde baja, cruza la carretera nueva a Guana, sube la montaña y desde la cumbre se puede ver el río y el pueblito Guane, para luego descender en zigzag.</string>
+    <string name="cementerio">Cementerio La Inmaculada Concepción</string>
+    <string name="cementerio_descripcion">El cementerio de Barichara es un museo al aire libre. Sobre un espacio natural de árboles, flores y prados, se refleja el arte, la historia y la tradición de los patiamarillos. A la entrada la réplica de ‘La última cena’, de Antonio Gaudí, elaborada por el escultor Arsenio Plata tallada en piedra. La variedad de tumbas muestran obras esculturales en piedra labrada, lapidas con tallas de figuras que recuerdan la labor que ejerció la persona en vida. Se exhiben en los muros del cementerio, antiguas cruces con diseños únicos en Forja.  Y  en la pared de tapia pisada de la casa, se conservan algunas lapidas muy antiguas y delicadas impresas en vidrio.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imagelist">imageList</string>
+    <string name="cementerio_descripcion_corta">Los tonos arcillosos de la fachada de piedra de la Catedral de la Inmaculada Concepción también se observan en las lápidas del cementerio de Barichara.</string>
+    <string name="_5_0">5.0</string>
+    <string name="menu">menu</string>
+    <string name="back">back</string>
+    <string name="sitios_de_interes_titulo">SITIOS DE INTERÉS</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="title_activity_botton">BottonActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_preference">Configuración</string>
+    <string name="title_detail">Detalle</string>
+    <string name="title_list">Lista</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="preferences">Preferencias</string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Amigos de Barichara Mobile®</string>
+    <string name="BARICHARA">BARICHARA</string>
+    <string name="barichara_descripcion_pantalla_1">Barichara fue nombrada «El pueblo más bonito de Colombia», y el nombre, en dialecto Guane, significa lugar para el descanso. Con este curriculum no sorprende que nada más llegar a Barichara desde San Gil, a unos 25 kilómetros, te invada una sensación de paz y tranquilidad, al menos durante la semana, supongo que el fin de semana se llena de turistas. El gentilicio es Baricharas o patiamarillos, de este último no he descubierto el porqué a pesar de buscarlo en Internet. La visité en 2009 y cuatro años después me pareció reconocer al mismo anciano sentado en el mismo banco de la misma plaza a la misma hora.</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="camino_real">CAMINO REAL</string>
+    <string name="boton_continue_main">CONTINUE</string>
+    <string name="camino_real_description_pg1">El Camino Real que une Barichara y Guane fue declarado Monumento Nacional en 1977 y restaurado bajo un decreto de 1988. Los historiadores aseguran que era parte del Camino Real Centro-Oriental colombiano, que conectaba las rutas de Santafé de Bogotá, Tunja, Bucaramanga, Pamplona y Cúcuta, con bifurcaciones que conducían hacia Cartagena y Venezuela. </string>
+    <string name="camino_real_descripcion_pg_3_1">Hay que subir a la parte alta del pueblo para tener las más hermosas vistas del mismo, con sus tejados armónicos en teja, y también del valle que comunica Barichara, a 1.300 msnm, con Guane, a 885 msnm, por lo que es recomendable recorrer el Camino Real en el sentido Barichara Guane, ya que en gran parte es cuesta abajo.</string>
+    <string name="camino" />
+    <string name="camino_real_descripcion_pg_3_2">El Camino Real no dejó de ser una pavimentación de los caminos milenarios de las comunidades chibchas, muiscas y guanes. En tiempos coloniales, la ruta imprimió un fuerte desarrollo económico a la región, ya que se comerciaba con tejidos, harina, maíz y sal por esta ruta hacia el occidente del país. El camino se hizo con losas de piedra plana muy abundante en la región, y comienza en la zona alta de Barichara al lado del monumento a Bolivar, desde donde baja, cruza la carretera nueva a Guana, sube la montaña y desde la cumbre se puede ver el río y el pueblito Guane, para luego descender en zigzag.</string>
+    <string name="sitios_de_interes_titulo">SITIOS DE INTERÉS</string>
+    <string name="camino_real_descripcion_corta">Conectaba las rutas de Santafé de Bogotá, Tunja, Bucaramanga, Pamplona y Cúcuta, con bifurcaciones que conducían hacia Cartagena y Venezuela.</string>
+    <string name="salto_del_mico_titulo">SALTO DEL MICO</string>
+    <string name="salto_del_mico_descripcion_corta">No puede faltar la icónica fotografía en El Salto del Mico que es uno de los miradores de Barichara, donde se observa el Cañón del río Suárez.</string>
+    <string name="sitios_de_interes">SITIOS DE INTERES</string>
+    <string name="menu">menu</string>
+    <string name="back">back</string>
+    <string name="imagelist">imageList</string>
+    <string name="_5_0">5.0</string>
+    <string name="stars">start</string>
+</resources>
+
