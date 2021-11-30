@@ -3,10 +3,11 @@
     "nombre" : "Camino Real",
     "descripcion" : "Conectaba las rutas de Santafé de Bogotá, Tunja, Bucaramanga, Pamplona y Cúcuta, con bifurcaciones que conducían hacia Cartagena y Venezuela.",
     "calificacion" : "5",
+    "descripcionLarga" : "El Camino Real que une Barichara y Guane fue declarado Monumento Nacional en 1977 y restaurado bajo un decreto de 1988. Los historiadores aseguran que era parte del Camino Real Centro-Oriental colombiano, que conectaba las rutas de Santafé de Bogotá, Tunja, Bucaramanga, Pamplona y Cúcuta, con bifurcaciones que conducían hacia Cartagena y Venezuela. El Camino Real no dejó de ser una pavimentación de los caminos milenarios de las comunidades chibchas, muiscas y guanes. En tiempos coloniales, la ruta imprimió un fuerte desarrollo económico a la región, ya que se comerciaba con tejidos, harina, maíz y sal por esta ruta hacia el occidente del país." ,
     "urlFoto" : "https://www.treksnappy.com/wp-content/uploads/2014/03/Camino-Real-17-1024x768.jpg"
   },
   {
-    "nombre" : "              Cementerio\nLa Inmaculada Concepcion",
+    "nombre" : "           Cementerio\nLa Inmaculada Concepcion",
     "descripcion" : " El cementerio de Barichara es un museo al aire libre.  Sobre un espacio natural de árboles, flores y prados,  se refleja  el  arte, la historia.",
     "calificacion" : "4",
     "descripcionLarga" : "El cementerio de Barichara es un museo al aire libre. Sobre un espacio natural de árboles, flores y prados, se refleja el arte, la historia y la tradición de los patiamarillos. A la entrada la réplica de ‘La última cena’, de Antonio Gaudí, elaborada por el escultor Arsenio Plata tallada en piedra. La variedad de tumbas muestran obras esculturales en piedra labrada, lapidas con tallas de figuras que recuerdan la labor que ejerció la persona en vida. Se exhiben en los muros del cementerio, antiguas cruces con diseños únicos en Forja.  Y  en la pared de tapia pisada de la casa, se conservan algunas lapidas muy antiguas y delicadas impresas en vidrio.",
@@ -14,20 +15,27 @@
   },
   {
     "nombre" : "Bioparque Móncora",
-    "descripcion" : "La mejor vista de Barichara al lado del Cañón del Suárez, se disfruta desde la parte alta del Bioparque Móncora. Siete hectáreas de tierra.",
+    "descripcion" : "La mejor vista de Barichara al lado del Cañón del Suárez, se disfruta desde la parte alta del Bioparque Móncora. ",
     "calificacion" : "3",
+    "descripcionLarga" :" La mejor vista de Barichara al lado del Cañón del Suárez, se disfruta desde la parte alta del Bioparque Móncora.En el Bioparque Móncora se puede caminar, meditar, practicar yoga, fotografía y observación de aves, flores e insectos. Hay 1.100 mts. de senderos peatonales, caney-aula en bioconstrucción, reservorios de aguas lluvias y sistema de riego. La clave para que el Bioparque Moncora sea sustentable como ecosistema y como espacio de educacion ambiental ha sido, la inclusion de los niños, niñas y jovenes de Barichara." ,
     "urlFoto" : "https://static.wixstatic.com/media/70bdc8_a01b44c9e5254215848fc32abe6646ef~mv2.jpg"
   },
   {
     "nombre" : "Parque Para las Artes",
     "descripcion" : "El Parque de las Artes Jorge Delgado Sierra es una de las construcciones recientes más valoradas del municipio. Levantado en 1988.",
     "calificacion" : "2",
+    "descripcionLarga" :"El Parque de las Artes Jorge Delgado Sierra es una de las construcciones recientes más valoradas del municipio. Levantado en 1988, se ha ganado el reconocimiento popular como un epicentro de arte y cultura, por dos razones: primero, un homenaje a los talladores de piedra, reconocidos en el plano local por conservar la herencia artesanal de las comunidades aborígenes; segundo, el tributo al agua, elemento fundamental en la vida de sus pobladores. En el recorrido por el lugar se observan 22 esculturas talladas en piedra.",
     "urlFoto" : "https://as1.ftcdn.net/v2/jpg/01/92/23/60/500_F_192236070_uLWhD3p18wvxYuWC0Lz51iwIKLZWK8Q4.jpg"
   },
   {
     "nombre" : "Salto del Mico",
     "descripcion" : "No puede faltar la icónica fotografía en El Salto del Mico que es uno de los miradores de Barichara, donde se observa el Cañón del río Suárez.",
     "calificacion" : "2",
+    "descripcionLarga" : "No puede faltar la icónica fotografía en El Salto del Mico que es uno de los miradores de Barichara, donde se observa el Cañón del río Suárez. Situado en la parte occidental del cañón del río Suárez, el mirador es un lugar ideal para apreciar la topografía que la cordillera de los Andes ha dejado en el oriente del país. Desde allí se ven los caminos que se dibujan en las montañas y atardeceres inolvidables.",
     "urlFoto" : "https://cdn.baquianos.com/img/blog/2021/9/salto-del-mico-davx640.jpg"
   }
+  
+  
+
+
 ]
